@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLConnect</string>
+    <string name="regView">Not a member? don't worry click here!</string>
+    <string name="login">Login</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
